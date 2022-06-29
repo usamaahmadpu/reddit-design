@@ -1,0 +1,24 @@
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+    font-weight: 500;
+}
+
+.col-md-3  .bi-file-code-fill{
+    color: blue;
+}
+
+.col-md-3  .bi-easel-fill{
+    color: rgb(255, 0, 0);
+}
+
+
+.col-md-3  .bi-calendar-range-fill{
+    color: green;
+}
+
+.dropdown-item:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
